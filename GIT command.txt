@@ -2,3 +2,14 @@ GIT clone https://github.com/rameshsingh2307/gitcommands.git
 
 ***Listing ALL branches..
 GIT Branch
+git branch --list
+
+***Creating branch and pushing it to repository.
+GIT branch <branch_name>
+GIT push -u origin <branch_name>
+
+***deleting branch
+git branch -d <branch_name>
+
+***git checkout
+
