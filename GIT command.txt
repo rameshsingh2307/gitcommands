@@ -1,1 +1,4 @@
 GIT clone https://github.com/rameshsingh2307/gitcommands.git
+
+***Listing ALL branches..
+GIT Branch
