@@ -11,5 +11,22 @@ GIT push -u origin <branch_name>
 ***deleting branch
 git branch -d <branch_name>
 
-***git checkout
+***git checkout (switch branch)
+git checkout <branch_name>
 
+***git checkout(below command will create and switch out branch)
+git checkout -b <name-of-your-branch>
+
+***To add a single file:
+git add <file>
+
+
+***To add everything at once:
+git add -A
+
+***git log
+git log
+git log --oneline
+
+***The Git revert command will undo the given commit, but will create a new commit without deleting the older one:
+git revert 3321844
