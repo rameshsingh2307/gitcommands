@@ -30,3 +30,8 @@ git log --oneline
 
 ***The Git revert command will undo the given commit, but will create a new commit without deleting the older one:
 git revert 3321844
+
+
+***GIT PULL
+git pull https://github.com/rameshsingh2307/gitcommands.git
+git pull origin master
