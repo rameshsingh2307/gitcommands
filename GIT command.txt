@@ -30,3 +30,11 @@ git log --oneline
 
 ***The Git revert command will undo the given commit, but will create a new commit without deleting the older one:
 git revert 3321844
+
+**git merge==============
+git merge <to branch name>
+git merge prod
+
+git add .
+git commit -m "Message"
+git push origin <branch name>
