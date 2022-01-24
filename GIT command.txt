@@ -38,4 +38,35 @@ git pull https://github.com/rameshsingh2307/gitcommands.git
 git pull origin master
 
 Edited by Ramesh remotely
+<<<<<<< HEAD
 Edited locally by Asha
+=======
+
+Edited by Suraj remotely
+>>>>>>> 7bcb1fef411bb1858c5c3c70a03c0abb758dc6f6
+
+
+Give 1 or 2 months.
+
+core modules
+main module
+
+existing tickets if any as per requirement.
+Ask doubts in KT.
+Ask for screen recording.
+
+
+project setup - 
+DB, IDE, what else Configuration. what mostly team follow for git related thing.
+
+Goals setting before apprasial.
+
+Never say to manager for anything if they ask you to do.
+
+They will ask for interview.
+
+Eclipse 
+
+Debbugging
+
+
