@@ -1,1 +1,75 @@
 GIT clone https://github.com/rameshsingh2307/gitcommands.git
+
+***Listing ALL branches..
+GIT Branch
+git branch --list
+
+***Creating branch and pushing it to repository.
+GIT branch <branch_name>
+GIT push -u origin <branch_name>
+OR
+git push -u origin HEAD
+
+***deleting branch
+git branch -d <branch_name>
+
+***git checkout (switch branch)
+git checkout <branch_name>
+
+***git checkout(below command will create and switch out branch)
+git checkout -b <name-of-your-branch>
+
+***To add a single file:
+git add <file>
+
+
+***To add everything at once:
+git add -A
+
+***git log
+git log
+git log --oneline
+
+***The Git revert command will undo the given commit, but will create a new commit without deleting the older one:
+git revert 3321844
+
+=======
+
+***GIT PULL
+git pull https://github.com/rameshsingh2307/gitcommands.git
+git pull origin master
+
+Edited by Ramesh remotely
+<<<<<<< HEAD
+Edited locally by Asha
+=======
+
+Edited by Suraj remotely
+>>>>>>> 7bcb1fef411bb1858c5c3c70a03c0abb758dc6f6
+
+
+Give 1 or 2 months.
+
+core modules
+main module
+
+existing tickets if any as per requirement.
+Ask doubts in KT.
+Ask for screen recording.
+
+
+project setup - 
+DB, IDE, what else Configuration. what mostly team follow for git related thing.
+
+Goals setting before apprasial.
+
+Never say to manager for anything if they ask you to do.
+
+They will ask for interview.
+
+Eclipse 
+
+Debbugging
+
+By Ramesh Singh
+
